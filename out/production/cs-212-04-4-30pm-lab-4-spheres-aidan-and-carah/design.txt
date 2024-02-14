@@ -1,0 +1,24 @@
+import math
+
+- Sphere Class -
+Default constructor (pass in values for sun, earth, planetX respectively)
+Area method
+    area = 4 * pi * r^2
+Volume method
+    volume = (4/3) * pi * r^3
+Distance method
+    distance = sqrt((x1 - x2)^2 + (y1 - y2)^2 + (z1 - z2)^2)
+
+- Main Class -
+Initialize within Main class
+    sun at 0.0, 0.0, 0.0 with a radius of 43.26
+    earth at 26.0, 42.0, 79.0 with a radius of 0.395
+    planetX at 25.3, 43.1, 77.8 with a radius of 1.4
+
+Sphere sun = new Sphere(sunArea, sunVolume, sunDistance)
+Sphere earth = new Sphere(earthArea, earthVolume, earthDistance)
+Sphere planetX = new Sphere(planetXArea, planetXVolume, planetXDistance)
+
+sout("Sun Area: " + sun.sunArea + "\nSun Volume: " + sun.sunVolume + "\nSun Distance: " + sun.sunDistance)
+sout("Earth Area: " + earth.earthArea + "\nEarth Volume: " + earth.earthVolume + "\nEarth Distance: " + earth.earthDistance)
+sout("PlanetX Area: " + planetX.planetXArea + "\nPlanetX Volume: " + planetX.planetXVolume + "\nPlanetX Distance: " + planetX.planetXDistance)

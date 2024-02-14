@@ -1,13 +1,12 @@
 
-/** Programmers:  Aidan and Carah
-* Course:  CS 212
-* Due Date:
-* Lab Assignment: The music of spheres
-* Problem Statement: Using classes, create spheres for the sun, earth, and planetX
-* Data In:
-* Data Out:
-* Credits: [Is your code based on an example in the book, in class, or something else?
-*            Reminder: you should never take code from the Internet or another person
+/** Programmers: Carah and Aidan
+ * Course:  CS 212
+ * Due Date: Feb 18 2024
+ * Lab Assignment: Spheres
+ * Problem Statement: Make sphere calculations for 3 given coordinate sets
+ * Data In: x2, y2, z2
+ * Data Out: area, volume, distance
+ * Credits: N/A
 */
 
 import java.lang.Math;

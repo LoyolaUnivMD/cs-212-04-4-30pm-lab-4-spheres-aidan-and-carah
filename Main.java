@@ -1,4 +1,4 @@
-/** Programmers: Aidan and Carah
+/** Programmers: Carah and Aidan
 * Course:  CS 212
 * Due Date: Feb 18 2024
 * Lab Assignment: Spheres

@@ -1,12 +1,11 @@
-/** Programmers:  [your names here]
+/** Programmers: Aidan and Carah
 * Course:  CS 212
-* Due Date:
-* Lab Assignment:
-* Problem Statement:
-* Data In:
-* Data Out:
-* Credits: [Is your code based on an example in the book, in class, or something else?
-*            Reminder: you should never take code from the Internet or another person
+* Due Date: Feb 18 2024
+* Lab Assignment: Spheres
+* Problem Statement: Make sphere calculations for 3 given coordinate sets
+* Data In: x2, y2, z2
+* Data Out: area, volume, distance
+* Credits: N/A
 */
 
 import java.util.Scanner;

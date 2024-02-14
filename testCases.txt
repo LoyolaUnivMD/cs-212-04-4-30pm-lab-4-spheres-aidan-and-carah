@@ -1,1 +1,76 @@
-Test Cases go here.
+Test Case 1
+    Inputs
+        Sun
+        x2 = 5
+        y2 = 6
+        z2 = 7
+        Earth
+        x2 = 9
+        y2 = 4
+        z2 = 6
+        PlanetX
+        x2 = 80
+        y2 = 0
+        z2 = 90
+    Outputs
+        sun Area = 23517.0527971
+        sun Volume = 254336.92602703278
+        sun Distance = 10.488088481701515
+        earth Area =  1.9606679751053901
+        earth Volume = 0.19361596254165728
+        earth Distance = 84.03570669661795
+        planetX Area = 24.630086404143974
+        planetX Volume = 8.62053024145039
+        planetX Distance = 70.70035360590498
+
+
+
+Test Case 2
+    Inputs
+        Sun
+        x2 = 55
+        y2 = 66
+        z2 = 77
+        Earth
+        x2 = -30
+        y2 = 40
+        z2 = 10
+        PlanetX
+        x2 = -5
+        y2 = -9
+        z2 = -2
+    Outputs
+        sun Area = 23517.0527971
+        sun Volume = 254336.92602703278
+        sun Distance = 115.36897329871667
+        earth Area = 1.9606679751053901
+        earth Volume = 0.19361596254165728
+        earth Distance = 88.88756943465155
+        planetX Area = 24.630086404143974
+        planetX Volume = 8.62053024145039
+        planetX Distance = 100.002699963551
+
+Test Case 3
+    Inputs
+        Sun
+        x2 = 0
+        y2 = 0
+        z2 = 0
+        Earth
+        x2 = -4
+        y2 = -4
+        z2 = -4
+        PlanetX
+        x2 = 4
+        y2 = 4
+        z2 = 4
+    Outputs
+        sun Area = 23517.0527971
+        sun Volume = 254336.92602703278
+        sun Distance = 0.0
+        earth Area = 1.9606679751053901
+        earth Volume = 0.19361596254165728
+        earth Distance = 99.5238664843765
+        planetX Area = 24.630086404143974
+        planetX Volume = 8.62053024145039
+        planetX Distance = 86.19129886479261
